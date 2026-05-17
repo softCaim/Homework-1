@@ -5,7 +5,6 @@ let second_number = 20;
 
 const third_number = 30;
 
-third_number = 40;
 console.log(first_number + second_number);
 greeting = "გამარჯობა";
 console.log(greeting);
