@@ -36,3 +36,7 @@ if (shuqnishani === "green") {
 } else {
   console.log("დარეკეთ სერვისში");
 }
+
+x = {};
+
+console.log(x == 0);
